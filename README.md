@@ -21,7 +21,7 @@ En esta pagina html, que ami parecer es un tipo de pagina para ofrecerle informa
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
+Repositorio en GitHub: https://github.com/Gioglz/-Ejercicio-3-Contact-Page- 
 Deploy: https://gioglz.github.io/-Ejercicio-3-Contact-Page-/
 ---
 
