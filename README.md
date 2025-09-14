@@ -22,7 +22,7 @@ En esta pagina html, que ami parecer es un tipo de pagina para ofrecerle informa
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Deploy: https://gioglz.github.io/-Ejercicio-3-Contact-Page-/
 ---
 
 ## 📝 Reflexión
